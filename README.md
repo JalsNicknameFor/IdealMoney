@@ -1,0 +1,3 @@
+# IdealMoney
+
+See the wiki
